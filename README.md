@@ -60,3 +60,14 @@ username: YOUR_POSTGRES_USERNAME
 password: YOUR_POSTGRES_PASSWORD
 ```
 
+Create databse
+
+```
+rails db:create
+```
+
+Start rails server
+
+```
+rails s
+```
